@@ -1,0 +1,28 @@
+
+.table{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+
+.hide{
+    display: none;
+}
+
+.back{
+    width: 75px;
+    margin-left: 10px;
+}
+
+.head{
+    background-color: blue;
+    color: white;
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}
