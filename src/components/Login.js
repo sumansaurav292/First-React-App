@@ -32,7 +32,6 @@ function Login(props){
     }
 
     return(
-        //<h1>I Love you Divya</h1>
         <div className={classes.modal}>
             <div className = {classes.modalContent}>
                 <div className={classes.container}>

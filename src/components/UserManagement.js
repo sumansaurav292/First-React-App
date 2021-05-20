@@ -49,19 +49,19 @@ function UserManagaement(){
                     </thead>
                     <tbody>
                         <tr>
-                            <td>Divya Kumari</td>
+                            <td>Olive Yew</td>
                             <td>Senior Developer</td>
-                            <td>divya.kumari10@tcs.com</td>
+                            <td>oliveYew@xyz.com</td>
                         </tr>
                         <tr>
-                            <td>Suman Saurav</td>
+                            <td>Rita Book</td>
                             <td>Developer</td>
-                            <td>suman.saurav3@tcs.com</td>
+                            <td>ritabook@xyz.com</td>
                         </tr>
                         <tr>
-                            <td>Abhishek Chand</td>
+                            <td>Paige Turner</td>
                             <td>Developer</td>
-                            <td>abhishek.chand@tcs.com</td>
+                            <td>paigeturner@xyz.com</td>
                         </tr>
                         <tr>
                             <td>Berglunds snabbkop</td>
